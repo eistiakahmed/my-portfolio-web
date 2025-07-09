@@ -41,6 +41,7 @@
     background-position: top left, bottom right;
     margin-left: 23px;
     margin-top: 32px ;
+    background-color: #FFF8F3;
     
 }
 
@@ -76,7 +77,14 @@ nav li a {
 .banner{
     display: flex;
     justify-content: space-between;
-    margin: 0 35px 0 230px;
+    /* margin: 0 35px 0 230px; */
+   
+    /* background-size: cover;
+    background-blend-mode:overlay ;
+    background-position: center;
+    height: 100vh;
+    gap: 40px;
+    padding: 50px 100px; */
 }
 
 .banner-content{
