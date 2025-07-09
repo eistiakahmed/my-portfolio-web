@@ -183,3 +183,19 @@ main{
     border-radius: 5px;
 }
 
+/* resume section */
+.resume-container{
+    display: flex;
+    gap: 24px;
+}
+.resume-column-title{
+    font-size: 30px;
+}
+
+.experience-title{
+    font-size: 25px;
+}
+
+.experience-sub-title{
+    font-size: 20px;
+}
