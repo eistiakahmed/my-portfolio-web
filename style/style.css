@@ -210,29 +210,38 @@ main{
 .resume-download-cv{
     margin-top: 50px;
 }
+.footer{
+    background-color: #FFF8F3; 
+    margin-top: 113px;  
+}
 
-/* footer-start */
-/* .color{
-    background-color: #FFF8F3;
-   
-} */
 footer{
-    /* padding: 130px 230px; */
-    /* display: flex; */
-    /* display: flex;
-    justify-content: space-between;
-    gap: 50px; */
+    display: flex;
+    padding: 130px 230px ;
+    gap: 117px;
 }
 
 .footer-column{
-    max-width: 50%;
-    
+    width: 50%;
+}
+footer input[type="text"], footer input[type="email"]{
+    height: 64px;
+    border-radius: 5px;
+    background-color: white;
+    display: block;
+    width: 100%;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+    border: none;
 }
 
-footer{
-    padding: 130px 230px;
-    display: flex;
-    flex-wrap: nowrap;
-    justify-content: space-between;
-
+footer textarea{
+    height: 180px;
+    border-radius: 5px;
+    background-color: white;
+    display: block;
+    width: 100%;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+    border: none;
 }
