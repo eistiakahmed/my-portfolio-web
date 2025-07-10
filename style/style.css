@@ -30,6 +30,16 @@
     
 }
 
+.contact-buttom{
+    font-weight: bold;
+     font-size: 20px;
+     color: #FD6E0A;
+     border: 2px solid #FD6E0A;
+     padding: 18px 35px;
+     border-radius: 5px;
+     background-color: white;
+}
+
 /* share style */
 .text-primary{
     color: #FD6E0A;
